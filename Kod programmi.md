@@ -1,2 +1,2 @@
-# Kod grogrammi 1
+# Programma 1
 # 322
