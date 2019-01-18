@@ -1,0 +1,3 @@
+# Komandi dlya raboti s programmami
+g++ -c "nazvanie programmnogo faila rashireniya .cpp"
+g++ "nazvanie programmi s rashireniem .o" -o "nazvanie sozdavaemoy programmi"
